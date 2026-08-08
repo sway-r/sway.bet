@@ -32,13 +32,7 @@ export default function Nav() {
             </li>
           ))}
           <li>
-            <a
-              href="/Swayam_Rathod_Resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Resume
-            </a>
+            <a href="/Swayam_Rathod_Resume.pdf">Resume</a>
           </li>
         </ul>
       </div>

@@ -116,8 +116,8 @@ export default function About() {
           <div className="where">Georgia State University</div>
         </li>
         <li>
-          <div className="when">May 2025 – Present</div>
-          <div className="what">Founder &amp; Product Designer, Craftora 3D Design Studio</div>
+          <div className="when">April 2026 – Present</div>
+          <div className="what">Founder, SwayForm Robotics</div>
           <div className="where">Independent</div>
         </li>
         <li>

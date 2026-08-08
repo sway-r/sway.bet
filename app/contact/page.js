@@ -51,12 +51,7 @@ export default function Contact() {
       </ul>
 
       <div style={{ marginTop: 32 }}>
-        <a
-          className="btn"
-          href="/Swayam_Rathod_Resume.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a className="btn" href="/Swayam_Rathod_Resume.pdf">
           View resume
         </a>{" "}
         <a
