@@ -20,16 +20,17 @@ export default function Home() {
             priority
           />
           <div>
-            <p className="eyebrow">Robotics · Mechanical Engineering · AI</p>
+            <p className="eyebrow">Physics · Robotics · AI</p>
             <h1 className="name-big">Swayam Rathod</h1>
           </div>
         </div>
 
         <p className="lede">
-          I go by Sway. I&apos;m pursuing my Associate of Science at Georgia
-          State University with a strong background in mechanical
-          engineering and robotics — I build humanoid robots, and I founded
-          SwayForm Robotics to get hands-on robotics into classrooms.
+          I go by Sway. I&apos;m pursuing my Associate of Science in Physics
+          at Georgia State University with a strong background in
+          mechanical engineering and robotics — I build humanoid robots, and
+          I founded SwayForm Robotics to get hands-on robotics into
+          classrooms.
         </p>
 
         <p>

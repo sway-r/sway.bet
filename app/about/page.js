@@ -44,8 +44,8 @@ export default function About() {
       </p>
 
       <p>
-        I&apos;m pursuing my Associate of Science at Georgia State
-        University, and most of my hands-on background is in mechanical
+        I&apos;m pursuing my Associate of Science in Physics at Georgia
+        State University, and most of my hands-on background is in mechanical
         engineering, robotics, and building systems from the ground up. A
         lot of what I know comes from learning by actually making things,
         breaking them, figuring out why they failed, and rebuilding them
@@ -112,7 +112,7 @@ export default function About() {
       <ul className="timeline">
         <li>
           <div className="when">Expected Dec 2028</div>
-          <div className="what">Associate of Science — GPA 3.62/4.0</div>
+          <div className="what">Associate of Science in Physics — GPA 3.62/4.0</div>
           <div className="where">Georgia State University</div>
         </li>
         <li>
