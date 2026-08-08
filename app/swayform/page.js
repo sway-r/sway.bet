@@ -88,8 +88,9 @@ export default function SwayForm() {
       </p>
 
       <p>
-        SwayForm is currently open for pilot interest, with commercial
-        availability targeted for Fall 2027.
+        SwayForm Robotics is registered as an LLC in Georgia, and is
+        currently open for pilot interest, with commercial availability
+        targeted for Fall 2027.
       </p>
 
       <a

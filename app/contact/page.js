@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "Contact — Swayam Rathod",
 };
@@ -51,17 +53,9 @@ export default function Contact() {
       </ul>
 
       <div style={{ marginTop: 32 }}>
-        <a className="btn" href="/Swayam_Rathod_Resume.pdf">
+        <Link className="btn" href="/resume">
           View resume
-        </a>{" "}
-        <a
-          className="link"
-          href="/Swayam_Rathod_Resume.pdf"
-          download
-          style={{ marginLeft: 12 }}
-        >
-          Download PDF
-        </a>
+        </Link>
       </div>
     </div>
   );
