@@ -28,8 +28,8 @@ export default function Contact() {
       <p className="eyebrow">Contact</p>
       <h1>Get in touch</h1>
       <p className="lede">
-        Happy to talk physics, robotics, or the Engineering Club at GTC —
-        reach me through whichever of these works best.
+        Happy to talk physics, robotics, or the Engineering Club at GTC.
+        Reach me through whichever of these works best.
       </p>
 
       <ul className="contact-list">

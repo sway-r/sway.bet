@@ -28,7 +28,7 @@ export default function Home() {
         <p className="lede">
           I go by Sway. I&apos;m pursuing my Associate of Science in Physics
           at Georgia State University with a strong background in
-          mechanical engineering and robotics — I build humanoid robots, and
+          mechanical engineering and robotics. I build humanoid robots, and
           I founded SwayForm Robotics to get hands-on robotics into
           classrooms.
         </p>

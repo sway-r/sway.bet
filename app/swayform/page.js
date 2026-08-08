@@ -10,7 +10,7 @@ export default function SwayForm() {
       <p className="eyebrow">SwayForm Robotics</p>
       <h1>Why I built SwayForm</h1>
       <p className="lede">
-        Students hear about AI and robotics constantly — but most never get
+        Students hear about AI and robotics constantly, but most never get
         to build, program, troubleshoot, and understand a real robotic
         system before college. I started SwayForm to close that gap.
       </p>
@@ -21,7 +21,7 @@ export default function SwayForm() {
           Spookey
         </Link>
         , my own humanoid robot, taught me firsthand how much is actually
-        involved in getting a robot to move, sense, and respond — and how
+        involved in getting a robot to move, sense, and respond, and how
         little of that most students ever get to touch. SwayForm grew out
         of wanting to hand that experience to more people, earlier.
       </p>
@@ -53,12 +53,12 @@ export default function SwayForm() {
       <p>
         Every robot runs real ROS 2 and Python on physical hardware, not a
         simulator. The curriculum currently covers 10 guided labs and is
-        expanding to 40 across four levels, plus five demo programs — Wave,
+        expanding to 40 across four levels, plus five demo programs (Wave,
         Handshake, Pick and Place, Rock Paper Scissors, and Interactive
-        Exchange — so students can see results early and keep building from
+        Exchange) so students can see results early and keep building from
         there. Student code goes through automated checks and instructor
-        review before it ever runs on the robot, and everything — control,
-        perception, all of it — runs locally on the robot itself. No
+        review before it ever runs on the robot, and everything (control,
+        perception, all of it) runs locally on the robot itself. No
         internet required, no cloud dependency, no invisible infrastructure
         standing between a student and their work.
       </p>
@@ -79,7 +79,7 @@ export default function SwayForm() {
       <h2>What it&apos;s for</h2>
       <p>
         The goal is simple: bring real robotics into every classroom. Not a
-        watered-down kit, and not a lecture about robots — an actual machine
+        watered-down kit, and not a lecture about robots: an actual machine
         students can build, program, and understand. I want the people who
         grow up with this technology to be confident around it, not
         intimidated by it. The future gets built by people who understand

@@ -10,7 +10,7 @@ export default function Projects() {
       <p className="lede">
         My biggest project so far: an independently designed humanoid robot,
         started in April 2025 to understand what it actually takes to build
-        a humanoid — not just study robotics in isolated pieces.
+        a humanoid, not just study robotics in isolated pieces.
       </p>
 
       <p>
@@ -35,7 +35,7 @@ export default function Projects() {
       <p>
         The software is built around ROS 2, with the system split into
         separate nodes for motion, sensing, behaviors, and higher-level
-        control — so the robot can eventually perceive its surroundings,
+        control, so the robot can eventually perceive its surroundings,
         interpret commands, and respond through physical movement.
         I&apos;ve experimented with Raspberry Pi-based computing, servo and
         motor control, IMU feedback, computer vision, and local AI /
@@ -46,7 +46,7 @@ export default function Projects() {
       <p>
         As the robot got more complex, temporary breadboard wiring and loose
         connections became unreliable, so I taught myself PCB design to
-        replace them — learning KiCad and working through grounding,
+        replace them, learning KiCad and working through grounding,
         connector placement, trace widths, power distribution, decoupling,
         and manufacturing along the way. Electrical distribution and PCB
         design were both areas I knew very little about before this project
@@ -57,7 +57,7 @@ export default function Projects() {
       <p>
         I don&apos;t need to already know how to build something before
         starting it. I learn the concepts required to make it work, apply
-        them, find the problems, and iterate — that&apos;s been the process
+        them, find the problems, and iterate. That&apos;s been the process
         for basically every part of Spookey, and it&apos;s how I approach
         engineering in general.
       </p>
@@ -68,9 +68,9 @@ export default function Projects() {
         mobile platform as part of a team, contributing to CAD modeling,
         mechanical assembly, electrical layout, motor-driver integration,
         power distribution, alignment, testing, and team coordination.
-        Beyond that, I&apos;ve designed a range of 3D-printable parts —
-        humanoid components, rover structures, and custom mechanical pieces
-        — with design files shared on my GitHub.
+        Beyond that, I&apos;ve designed a range of 3D-printable parts,
+        including humanoid components, rover structures, and custom
+        mechanical pieces, with design files shared on my GitHub.
       </p>
 
       <a

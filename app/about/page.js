@@ -49,7 +49,7 @@ export default function About() {
         engineering, robotics, and building systems from the ground up. A
         lot of what I know comes from learning by actually making things,
         breaking them, figuring out why they failed, and rebuilding them
-        better — not from studying individual pieces of robotics in
+        better, not from studying individual pieces of robotics in
         isolation.
       </p>
 
@@ -71,7 +71,7 @@ export default function About() {
 
       <p>
         The biggest project I&apos;ve worked on is my independently designed
-        humanoid robot, Spookey — mechanical structure, electronics, power
+        humanoid robot, Spookey: mechanical structure, electronics, power
         distribution, custom PCBs, and the ROS 2 software behind it, all
         built myself. You can read the full story on the{" "}
         <Link className="link" href="/projects">
@@ -95,7 +95,7 @@ export default function About() {
         I also run Craftora 3D Design Studio, a small business I started in
         May 2025 specializing in custom 3D-printed products and creative
         mechanical designs. I handle the modeling, printing, and client
-        delivery myself — so far that&apos;s meant 20+ original designs and
+        delivery myself. So far that&apos;s meant 20+ original designs and
         over 100 sales, run independently alongside a full course load.
       </p>
 

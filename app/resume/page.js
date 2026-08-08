@@ -171,9 +171,9 @@ export default function Resume() {
 
       <h2>Engineering Designs &amp; 3D Files</h2>
       <p>
-        Design files from personal and academic projects — humanoid robot
-        components, rover structures, and custom mechanical parts — shared
-        on GitHub:{" "}
+        Design files from personal and academic projects, including
+        humanoid robot components, rover structures, and custom mechanical
+        parts, shared on GitHub:{" "}
         <a
           className="link"
           href="https://github.com/sway-r"
