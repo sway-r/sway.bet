@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "SwayForm Robotics — Swayam Rathod",
 };
@@ -11,6 +13,17 @@ export default function SwayForm() {
         Students hear about AI and robotics constantly — but most never get
         to build, program, troubleshoot, and understand a real robotic
         system before college. I started SwayForm to close that gap.
+      </p>
+
+      <p>
+        Building{" "}
+        <Link className="link" href="/projects">
+          Spookey
+        </Link>
+        , my own humanoid robot, taught me firsthand how much is actually
+        involved in getting a robot to move, sense, and respond — and how
+        little of that most students ever get to touch. SwayForm grew out
+        of wanting to hand that experience to more people, earlier.
       </p>
 
       <p>
