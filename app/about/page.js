@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata = {
@@ -24,6 +25,13 @@ const skills = [
 export default function About() {
   return (
     <div className="shell">
+      <Image
+        src="/swayam.jpg"
+        alt="Swayam Rathod"
+        width={140}
+        height={140}
+        className="avatar-large"
+      />
       <p className="eyebrow">About</p>
       <h1>About me</h1>
       <p className="lede">

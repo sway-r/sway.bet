@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata = {
@@ -7,6 +8,14 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="shell">
+      <Image
+        src="/swayam.jpg"
+        alt="Swayam Rathod"
+        width={84}
+        height={84}
+        className="avatar"
+        priority
+      />
       <p className="eyebrow">Physics · Robotics · AI</p>
       <h1>Hi, I&apos;m Sway.</h1>
       <p className="lede">

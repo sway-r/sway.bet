@@ -105,6 +105,24 @@ h2 {
   margin: 40px 0 12px;
 }
 
+.avatar {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+
+.avatar-large {
+  width: 140px;
+  height: 140px;
+  border-radius: 16px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  margin-bottom: 24px;
+}
+
 .eyebrow {
   font-size: 13px;
   font-weight: 500;
