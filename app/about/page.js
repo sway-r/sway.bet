@@ -10,7 +10,9 @@ const skills = [
   "C++",
   "Java",
   "ROS 2",
+  "Gazebo",
   "Raspberry Pi",
+  "Arduino",
   "Machine Learning",
   "3D Printing",
   "SolidWorks",
@@ -18,8 +20,9 @@ const skills = [
   "AutoCAD",
   "Blender",
   "NVIDIA Isaac Sim",
+  "URDF Modeling",
   "Electronics",
-  "PCB Design (KiCad)",
+  "PCB Design (KiCad, EasyEDA)",
 ];
 
 export default function About() {
@@ -41,12 +44,13 @@ export default function About() {
       </p>
 
       <p>
-        I&apos;m currently studying physics at Georgia State University, but
-        most of my hands-on background is in mechanical engineering,
-        robotics, and building systems from the ground up. A lot of what I
-        know comes from learning by actually making things, breaking them,
-        figuring out why they failed, and rebuilding them better — not from
-        studying individual pieces of robotics in isolation.
+        I&apos;m pursuing my Associate of Science at Georgia State
+        University, and most of my hands-on background is in mechanical
+        engineering, robotics, and building systems from the ground up. A
+        lot of what I know comes from learning by actually making things,
+        breaking them, figuring out why they failed, and rebuilding them
+        better — not from studying individual pieces of robotics in
+        isolation.
       </p>
 
       <p>
@@ -87,6 +91,14 @@ export default function About() {
         .
       </p>
 
+      <p>
+        I also run Craftora 3D Design Studio, a small business I started in
+        May 2025 specializing in custom 3D-printed products and creative
+        mechanical designs. I handle the modeling, printing, and client
+        delivery myself — so far that&apos;s meant 20+ original designs and
+        over 100 sales, run independently alongside a full course load.
+      </p>
+
       <h2>Skills</h2>
       <div>
         {skills.map((skill) => (
@@ -99,15 +111,25 @@ export default function About() {
       <h2>Timeline</h2>
       <ul className="timeline">
         <li>
-          <div className="when">2026 – 2028</div>
-          <div className="what">B.S. in Physics</div>
+          <div className="when">Expected Dec 2028</div>
+          <div className="what">Associate of Science — GPA 3.62/4.0</div>
           <div className="where">Georgia State University</div>
         </li>
         <li>
-          <div className="when">2025 – 2026</div>
+          <div className="when">May 2025 – Present</div>
+          <div className="what">Founder &amp; Product Designer, Craftora 3D Design Studio</div>
+          <div className="where">Independent</div>
+        </li>
+        <li>
+          <div className="when">Jan – May 2026</div>
           <div className="what">
-            Freshman year — Founder &amp; President, Engineering Club
+            Founder &amp; President, Engineering Club
           </div>
+          <div className="where">Gwinnett Technical College</div>
+        </li>
+        <li>
+          <div className="when">2025 – 2026</div>
+          <div className="what">Freshman year</div>
           <div className="where">Gwinnett Technical College</div>
         </li>
         <li>

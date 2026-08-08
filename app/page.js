@@ -20,16 +20,16 @@ export default function Home() {
             priority
           />
           <div>
-            <p className="eyebrow">Physics · Robotics · AI</p>
+            <p className="eyebrow">Robotics · Mechanical Engineering · AI</p>
             <h1 className="name-big">Swayam Rathod</h1>
           </div>
         </div>
 
         <p className="lede">
-          I go by Sway. I&apos;m a physics student at Georgia State
-          University with a strong background in mechanical engineering and
-          robotics — I build humanoid robots, and I founded SwayForm
-          Robotics to get hands-on robotics into classrooms.
+          I go by Sway. I&apos;m pursuing my Associate of Science at Georgia
+          State University with a strong background in mechanical
+          engineering and robotics — I build humanoid robots, and I founded
+          SwayForm Robotics to get hands-on robotics into classrooms.
         </p>
 
         <p>
@@ -38,8 +38,8 @@ export default function Home() {
           rebuilding them better. My biggest project is Spookey, an
           independently designed humanoid robot. I spent my freshman year of
           college at Gwinnett Technical College (2025–2026), where I founded
-          and led the Engineering Club, and I&apos;m now continuing my
-          degree at GSU (2026–2028).
+          and led the Engineering Club, and I&apos;m continuing my degree at
+          Georgia State University, expected to graduate December 2028.
         </p>
       </div>
 

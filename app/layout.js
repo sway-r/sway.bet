@@ -12,7 +12,7 @@ const inter = Inter({
 export const metadata = {
   title: "Swayam Rathod",
   description:
-    "Swayam Rathod — physics student at Georgia State University, builder of the humanoid robot Spookey, and founder of SwayForm Robotics.",
+    "Swayam Rathod — mechanical engineering & robotics student at Georgia State University, builder of the humanoid robot Spookey, and founder of SwayForm Robotics.",
 };
 
 export default function RootLayout({ children }) {
