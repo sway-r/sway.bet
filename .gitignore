@@ -12,8 +12,9 @@
 .DS_Store
 *.pem
 
-# raw source images (see public/ for the copies actually used on the site)
+# raw source uploads (see public/ for the copies actually used on the site)
 /images
+/*.pdf
 
 # debug
 npm-debug.log*

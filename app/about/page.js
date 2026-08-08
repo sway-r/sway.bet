@@ -31,6 +31,7 @@ export default function About() {
         width={140}
         height={140}
         className="avatar-large"
+        quality={95}
       />
       <p className="eyebrow">About</p>
       <h1>About me</h1>

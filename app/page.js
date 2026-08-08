@@ -8,32 +8,40 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="shell">
-      <Image
-        src="/swayam.jpg"
-        alt="Swayam Rathod"
-        width={84}
-        height={84}
-        className="avatar"
-        priority
-      />
-      <p className="eyebrow">Physics · Robotics · AI</p>
-      <h1>Hi, I&apos;m Sway.</h1>
-      <p className="lede">
-        I&apos;m a physics student at Georgia State University with a strong
-        background in mechanical engineering and robotics — I build
-        humanoid robots, and I founded SwayForm Robotics to get hands-on
-        robotics into classrooms.
-      </p>
+      <div className="hero-panel">
+        <div className="hero-row">
+          <Image
+            src="/swayam.jpg"
+            alt="Swayam Rathod"
+            width={88}
+            height={88}
+            className="avatar"
+            quality={95}
+            priority
+          />
+          <div>
+            <p className="eyebrow">Physics · Robotics · AI</p>
+            <h1 className="name-big">Swayam Rathod</h1>
+          </div>
+        </div>
 
-      <p>
-        A lot of what I know comes from learning by actually making things,
-        breaking them, figuring out why they failed, and rebuilding them
-        better. My biggest project is Spookey, an independently designed
-        humanoid robot. I spent my freshman year of college at Gwinnett
-        Technical College (2025–2026), where I founded and led the
-        Engineering Club, and I&apos;m now continuing my degree at GSU
-        (2026–2028).
-      </p>
+        <p className="lede">
+          I go by Sway. I&apos;m a physics student at Georgia State
+          University with a strong background in mechanical engineering and
+          robotics — I build humanoid robots, and I founded SwayForm
+          Robotics to get hands-on robotics into classrooms.
+        </p>
+
+        <p>
+          A lot of what I know comes from learning by actually making
+          things, breaking them, figuring out why they failed, and
+          rebuilding them better. My biggest project is Spookey, an
+          independently designed humanoid robot. I spent my freshman year of
+          college at Gwinnett Technical College (2025–2026), where I founded
+          and led the Engineering Club, and I&apos;m now continuing my
+          degree at GSU (2026–2028).
+        </p>
+      </div>
 
       <div className="card-grid">
         <Link href="/about" className="card">

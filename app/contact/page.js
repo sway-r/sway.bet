@@ -49,6 +49,25 @@ export default function Contact() {
           </li>
         ))}
       </ul>
+
+      <div style={{ marginTop: 32 }}>
+        <a
+          className="btn"
+          href="/Swayam_Rathod_Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View resume
+        </a>{" "}
+        <a
+          className="link"
+          href="/Swayam_Rathod_Resume.pdf"
+          download
+          style={{ marginLeft: 12 }}
+        >
+          Download PDF
+        </a>
+      </div>
     </div>
   );
 }
